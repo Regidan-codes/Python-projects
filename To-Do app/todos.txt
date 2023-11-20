@@ -1,4 +1,2 @@
-clean
-update
-shower
-hello
+cleaningup
+don't showerhurrr
